@@ -1,0 +1,59 @@
+Image Link: "https://example.com/lounge1.jpg"
+Name: "Elegant Oasis"
+Price: ₹150,000
+Description: "Create an elegant oasis for your wedding reception, offering a sophisticated and relaxing ambiance."
+Status: "Pending"
+
+Image Link: "https://example.com/lounge2.jpg"
+Name: "Modern Chic"
+Price: ₹180,000
+Description: "Embrace modern chic with our stylish lounge, featuring contemporary designs and trendy aesthetics."
+Status: "Pending"
+
+Image Link: "https://example.com/lounge3.jpg"
+Name: "Classic Elegance"
+Price: ₹120,000
+Description: "Experience classic elegance in our timeless lounge, adorned with luxurious furnishings and refined decor."
+Status: "Pending"
+
+Image Link: "https://example.com/lounge4.jpg"
+Name: "Relaxing Retreat"
+Price: ₹160,000
+Description: "Transform your wedding venue into a relaxing retreat, offering cozy seating areas and serene ambiance."
+Status: "Pending"
+
+Image Link: "https://example.com/lounge5.jpg"
+Name: "Vintage Vibes"
+Price: ₹140,000
+Description: "Transport your guests to a bygone era with our vintage-inspired lounge, exuding nostalgia and charm."
+Status: "Pending"
+
+Image Link: "https://example.com/lounge6.jpg"
+Name: "Contemporary Zen"
+Price: ₹190,000
+Description: "Create a sense of contemporary zen in our lounge, featuring clean lines and harmonious design elements."
+Status: "Pending"
+
+Image Link: "https://example.com/lounge7.jpg"
+Name: "Luxurious Comfort"
+Price: ₹170,000
+Description: "Indulge in luxurious comfort with our plush lounge, offering opulent seating and refined amenities."
+Status: "Pending"
+
+Image Link: "https://example.com/lounge8.jpg"
+Name: "Rustic Charm"
+Price: ₹130,000
+Description: "Embrace the rustic charm of our lounge, featuring warm wood tones and cozy, earthy accents."
+Status: "Pending"
+
+Image Link: "https://example.com/lounge9.jpg"
+Name: "Garden Retreat"
+Price: ₹200,000
+Description: "Transform your wedding space into a lush garden retreat with our outdoor lounge, surrounded by greenery."
+Status: "Pending"
+
+Image Link: "https://example.com/lounge10.jpg"
+Name: "Sleek Sophistication"
+Price: ₹160,000
+Description: "Experience sleek sophistication in our lounge, boasting contemporary design and sleek furnishings."
+Status: "Pending"

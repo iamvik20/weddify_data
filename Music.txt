@@ -1,0 +1,59 @@
+Image Link: "https://example.com/dj1.jpg"
+Name: "Groove Masters"
+Price: ₹50,000
+Description: "Set the dance floor on fire with our talented DJs, delivering energetic beats and unforgettable mixes."
+Status: "Pending"
+
+Image Link: "https://example.com/dj2.jpg"
+Name: "Electro Vibes"
+Price: ₹60,000
+Description: "Immerse your guests in an electrifying atmosphere with our cutting-edge DJ services and pulsating music."
+Status: "Pending"
+
+Image Link: "https://example.com/dj3.jpg"
+Name: "Party Starters"
+Price: ₹45,000
+Description: "Get the party started with our dynamic DJs, creating a lively and fun-filled atmosphere for your wedding."
+Status: "Pending"
+
+Image Link: "https://example.com/dj4.jpg"
+Name: "Mix Masters"
+Price: ₹55,000
+Description: "Experience seamless transitions and a diverse music collection as our skilled DJs curate the perfect playlist."
+Status: "Pending"
+
+Image Link: "https://example.com/dj5.jpg"
+Name: "Club Groovers"
+Price: ₹65,000
+Description: "Bring the club vibe to your wedding with our talented DJs, spinning the latest hits and remixes."
+Status: "Pending"
+
+Image Link: "https://example.com/dj6.jpg"
+Name: "Classic Beats"
+Price: ₹40,000
+Description: "Dance to the classic beats and timeless melodies curated by our experienced and versatile DJs."
+Status: "Pending"
+
+Image Link: "https://example.com/dj7.jpg"
+Name: "Bollywood Mixers"
+Price: ₹70,000
+Description: "Create a Bollywood extravaganza with our DJs, blending the best of desi beats and popular chart-toppers."
+Status: "Pending"
+
+Image Link: "https://example.com/dj8.jpg"
+Name: "EDM Enthusiasts"
+Price: ₹55,000
+Description: "Ignite the dance floor with our EDM enthusiasts, delivering high-energy electronic music and infectious vibes."
+Status: "Pending"
+
+Image Link: "https://example.com/dj9.jpg"
+Name: "Retro Rewind"
+Price: ₹45,000
+Description: "Take a trip down memory lane with our retro-themed DJ services, playing hits from the golden era."
+Status: "Pending"
+
+Image Link: "https://example.com/dj10.jpg"
+Name: "Soulful Sounds"
+Price: ₹50,000
+Description: "Experience the magic of soulful sounds and melodic tunes, creating an enchanting atmosphere for your wedding."
+Status: "Pending"

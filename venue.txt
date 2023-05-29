@@ -1,0 +1,59 @@
+Image Link: "https://example.com/lawn1.jpg"
+Name: "Grand Gardens"
+Price: ₹350,000
+Description: "A luxurious and spacious marriage lawn perfect for grand celebrations and lavish weddings."
+Status: "Pending"
+
+Image Link: "https://example.com/lawn2.jpg"
+Name: "Elegant Meadows"
+Price: ₹320,000
+Description: "A beautifully landscaped lawn with elegant decor and a serene atmosphere, ideal for intimate gatherings."
+Status: "Pending"
+
+Image Link: "https://example.com/lawn3.jpg"
+Name: "Royal Oasis"
+Price: ₹420,000
+Description: "Experience a royal wedding at our exquisite lawn, adorned with regal motifs and majestic surroundings."
+Status: "Pending"
+
+Image Link: "https://example.com/lawn4.jpg"
+Name: "Blissful Greens"
+Price: ₹280,000
+Description: "Enjoy a blissful union amidst lush greenery and natural beauty, creating unforgettable memories."
+Status: "Pending"
+
+Image Link: "https://example.com/lawn5.jpg"
+Name: "Enchanted Haven"
+Price: ₹380,000
+Description: "Step into an enchanted haven of love and enchantment, where dreams come true and celebrations sparkle."
+Status: "Pending"
+
+Image Link: "https://example.com/lawn6.jpg"
+Name: "Serene Valley"
+Price: ₹260,000
+Description: "Host your wedding in a tranquil and serene valley, providing a peaceful ambiance for your special day."
+Status: "Pending"
+
+Image Link: "https://example.com/lawn7.jpg"
+Name: "Majestic Park"
+Price: ₹360,000
+Description: "Celebrate your love in a majestic park, offering a picturesque setting and grandeur at every corner."
+Status: "Pending"
+
+Image Link: "https://example.com/lawn8.jpg"
+Name: "Tranquil Retreat"
+Price: ₹330,000
+Description: "Escape to a tranquil retreat, surrounded by nature's beauty, for an intimate and serene wedding affair."
+Status: "Pending"
+
+Image Link: "https://example.com/lawn9.jpg"
+Name: "Graceful Manor"
+Price: ₹360,000
+Description: "Discover the elegance of a graceful manor, a perfect venue for sophisticated and stylish weddings."
+Status: "Pending"
+
+Image Link: "https://example.com/lawn10.jpg"
+Name: "Harmony Gardens"
+Price: ₹320,000
+Description: "Experience harmony and bliss at our stunning garden venue, where love and nature intertwine."
+Status: "Pending"

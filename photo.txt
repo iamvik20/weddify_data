@@ -1,0 +1,59 @@
+Image Link: "https://example.com/photographer1.jpg"
+Name: "Capture Bliss"
+Price: ₹60,000
+Description: "Let us capture the blissful moments of your wedding day with our skilled photography services."
+Status: "Pending"
+
+Image Link: "https://example.com/photographer2.jpg"
+Name: "Lens & Love"
+Price: ₹80,000
+Description: "We use the lens to tell the love story of your wedding, creating timeless memories."
+Status: "Pending"
+
+Image Link: "https://example.com/photographer3.jpg"
+Name: "Framed Elegance"
+Price: ₹70,000
+Description: "With an eye for elegance, we capture the essence and beauty of your special day."
+Status: "Pending"
+
+Image Link: "https://example.com/photographer4.jpg"
+Name: "Candid Moments"
+Price: ₹75,000
+Description: "Preserve the candid moments and genuine emotions of your wedding through our photography."
+Status: "Pending"
+
+Image Link: "https://example.com/photographer5.jpg"
+Name: "Artistic Visions"
+Price: ₹65,000
+Description: "We transform wedding moments into artistic visions, capturing the unique essence of your day."
+Status: "Pending"
+
+Image Link: "https://example.com/photographer6.jpg"
+Name: "Timeless Frames"
+Price: ₹90,000
+Description: "Create timeless frames that encapsulate the love, joy, and beauty of your wedding."
+Status: "Pending"
+
+Image Link: "https://example.com/photographer7.jpg"
+Name: "Romantic Portraits"
+Price: ₹55,000
+Description: "Crafting romantic portraits that reflect your love story and capture your unique connection."
+Status: "Pending"
+
+Image Link: "https://example.com/photographer8.jpg"
+Name: "Enchanting Clicks"
+Price: ₹75,000
+Description: "We specialize in capturing enchanting moments, weaving them into a beautiful visual narrative."
+Status: "Pending"
+
+Image Link: "https://example.com/photographer9.jpg"
+Name: "Vintage Memories"
+Price: ₹50,000
+Description: "Embrace the nostalgia of vintage aesthetics as we create timeless memories of your wedding."
+Status: "Pending"
+
+Image Link: "https://example.com/photographer10.jpg"
+Name: "Majestic Shots"
+Price: ₹85,000
+Description: "We capture majestic shots that showcase the grandeur and beauty of your wedding day."
+Status: "Pending"

@@ -1,0 +1,59 @@
+Image Link: "https://example.com/caterer1.jpg"
+Name: "Flavorsome Delights"
+Price: ₹250,000
+Description: "Indulge your guests with a wide array of flavorsome delights prepared by our expert caterers."
+Status: "Pending"
+
+Image Link: "https://example.com/caterer2.jpg"
+Name: "Gourmet Cuisine"
+Price: ₹280,000
+Description: "Experience the exquisite flavors of our gourmet cuisine, carefully crafted for your special day."
+Status: "Pending"
+
+Image Link: "https://example.com/caterer3.jpg"
+Name: "Traditional Tastes"
+Price: ₹220,000
+Description: "Delight in the traditional tastes and culinary traditions served by our skilled team."
+Status: "Pending"
+
+Image Link: "https://example.com/caterer4.jpg"
+Name: "Global Fusion"
+Price: ₹300,000
+Description: "Embark on a culinary journey with our global fusion menu, blending flavors from around the world."
+Status: "Pending"
+
+Image Link: "https://example.com/caterer5.jpg"
+Name: "Vegetarian Delicacies"
+Price: ₹200,000
+Description: "Savor the richness of vegetarian delicacies prepared by our talented caterers."
+Status: "Pending"
+
+Image Link: "https://example.com/caterer6.jpg"
+Name: "Exquisite Banquets"
+Price: ₹320,000
+Description: "Create an exquisite banquet experience with our meticulously curated menu and impeccable service."
+Status: "Pending"
+
+Image Link: "https://example.com/caterer7.jpg"
+Name: "Decadent Desserts"
+Price: ₹180,000
+Description: "Indulge in a heavenly assortment of decadent desserts, adding sweetness to your celebration."
+Status: "Pending"
+
+Image Link: "https://example.com/caterer8.jpg"
+Name: "Custom Creations"
+Price: ₹270,000
+Description: "Experience the art of culinary customization as we create bespoke dishes tailored to your preferences."
+Status: "Pending"
+
+Image Link: "https://example.com/caterer9.jpg"
+Name: "Healthy Fare"
+Price: ₹230,000
+Description: "Delight your guests with a selection of healthy and nutritious fare, beautifully presented."
+Status: "Pending"
+
+Image Link: "https://example.com/caterer10.jpg"
+Name: "Aromatic Spices"
+Price: ₹260,000
+Description: "Infuse your wedding with aromatic spices and delectable flavors, leaving a lasting impression."
+Status: "Pending"

@@ -1,0 +1,59 @@
+Image Link: "https://example.com/mehndi1.jpg"
+Name: "Intricate Henna"
+Price: ₹8,000
+Description: "Adorn your hands and feet with intricate henna designs created by our skilled mehndi artists."
+Status: "Pending"
+
+Image Link: "https://example.com/mehndi2.jpg"
+Name: "Traditional Elegance"
+Price: ₹10,000
+Description: "Experience the timeless elegance of traditional mehndi art, adding grace to your wedding celebration."
+Status: "Pending"
+
+Image Link: "https://example.com/mehndi3.jpg"
+Name: "Contemporary Patterns"
+Price: ₹12,000
+Description: "Embrace contemporary mehndi patterns that blend modern artistry with traditional designs."
+Status: "Pending"
+
+Image Link: "https://example.com/mehndi4.jpg"
+Name: "Bridal Bliss"
+Price: ₹15,000
+Description: "Elevate your bridal look with our exquisite henna art, customized to reflect your unique style."
+Status: "Pending"
+
+Image Link: "https://example.com/mehndi5.jpg"
+Name: "Intriguing Motifs"
+Price: ₹9,000
+Description: "Discover the beauty of mehndi motifs that captivate the eye and add allure to your wedding day."
+Status: "Pending"
+
+Image Link: "https://example.com/mehndi6.jpg"
+Name: "Festive Fervor"
+Price: ₹11,000
+Description: "Immerse yourself in the festive fervor with our vibrant and celebratory mehndi designs."
+Status: "Pending"
+
+Image Link: "https://example.com/mehndi7.jpg"
+Name: "Delicate Details"
+Price: ₹7,000
+Description: "Experience the beauty of delicate mehndi details that enhance the grace and elegance of your hands."
+Status: "Pending"
+
+Image Link: "https://example.com/mehndi8.jpg"
+Name: "Whimsical Strokes"
+Price: ₹13,000
+Description: "Infuse your mehndi design with whimsical strokes and playful patterns, adding a touch of magic."
+Status: "Pending"
+
+Image Link: "https://example.com/mehndi9.jpg"
+Name: "Ethnic Charm"
+Price: ₹9,500
+Description: "Celebrate the rich heritage of mehndi art with our ethnic designs that reflect cultural charm."
+Status: "Pending"
+
+Image Link: "https://example.com/mehndi10.jpg"
+Name: "Bold Statements"
+Price: ₹14,000
+Description: "Make a bold statement with our unique and striking mehndi designs, showcasing your individuality."
+Status: "Pending"

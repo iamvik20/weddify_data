@@ -1,0 +1,59 @@
+Image Link: "https://example.com/makeupstudio1.jpg"
+Name: "Glamourous Makeovers"
+Price: ₹30,000
+Description: "Get ready to shine with our glamorous makeovers, tailored to enhance your natural beauty."
+Status: "Pending"
+
+Image Link: "https://example.com/makeupstudio2.jpg"
+Name: "Radiant Beauty"
+Price: ₹40,000
+Description: "Experience the magic of radiant beauty as our professional makeup artists transform you on your special day."
+Status: "Pending"
+
+Image Link: "https://example.com/makeupstudio3.jpg"
+Name: "Timeless Elegance"
+Price: ₹35,000
+Description: "Achieve a timeless and elegant look with our expert makeup techniques and attention to detail."
+Status: "Pending"
+
+Image Link: "https://example.com/makeupstudio4.jpg"
+Name: "Flawless Perfection"
+Price: ₹45,000
+Description: "Discover flawless perfection with our skilled makeup artists, using premium products and techniques."
+Status: "Pending"
+
+Image Link: "https://example.com/makeupstudio5.jpg"
+Name: "Natural Glam"
+Price: ₹25,000
+Description: "Enhance your natural features with a touch of glam, creating a perfect balance of elegance and allure."
+Status: "Pending"
+
+Image Link: "https://example.com/makeupstudio6.jpg"
+Name: "Bold Statements"
+Price: ₹50,000
+Description: "Make a bold statement with our unique and creative makeup styles, reflecting your individuality."
+Status: "Pending"
+
+Image Link: "https://example.com/makeupstudio7.jpg"
+Name: "Sophisticated Charm"
+Price: ₹38,000
+Description: "Experience sophisticated charm as our makeup artists create a look that exudes grace and poise."
+Status: "Pending"
+
+Image Link: "https://example.com/makeupstudio8.jpg"
+Name: "Dewy Glow"
+Price: ₹32,000
+Description: "Achieve a dewy and luminous glow that enhances your natural radiance, captivating all eyes."
+Status: "Pending"
+
+Image Link: "https://example.com/makeupstudio9.jpg"
+Name: "Vintage Vibes"
+Price: ₹42,000
+Description: "Transport yourself to a bygone era with our vintage-inspired makeup styles, oozing with nostalgia."
+Status: "Pending"
+
+Image Link: "https://example.com/makeupstudio10.jpg"
+Name: "Modern Chic"
+Price: ₹36,000
+Description: "Embrace modern chic with our contemporary makeup techniques, blending trends with timeless beauty."
+Status: "Pending"
