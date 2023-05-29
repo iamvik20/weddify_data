@@ -34,7 +34,7 @@ Price: ₹260,000
 Description: "Host your wedding in a tranquil and serene valley, providing a peaceful ambiance for your special day."
 Status: "Pending"
 
-Image Link: "https://example.com/lawn7.jpg"
+Image Link: "https://image.wedmegood.com/resized/1000X/uploads/member/1143519/1684230607_the_elite_lucknow_convention.jpg?crop=7,100,1385,779"
 Name: "Majestic Park"
 Price: ₹360,000
 Description: "Celebrate your love in a majestic park, offering a picturesque setting and grandeur at every corner."
