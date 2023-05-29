@@ -1,0 +1,34 @@
+Name: Pandit Ravi Sharma
+Language: Hindi, Sanskrit
+Experience: 15 years
+Description: "Pandit Ravi Sharma brings deep knowledge of Vedic rituals and traditions, conducting wedding ceremonies with utmost grace and authenticity."
+Status: "Pending"
+
+Name: Pandit Priya Patel
+Language: Gujarati, English, Hindi
+Experience: 10 years
+Description: "Pandit Priya Patel is a skilled priestess with expertise in Gujarati wedding rituals, ensuring a meaningful and culturally rich ceremony."
+Status: "Pending"
+
+Name: Pandit Rajesh Joshi
+Language: Marathi, Hindi, Sanskrit
+Experience: 20 years
+Description: "Pandit Rajesh Joshi is a highly respected priest, known for his profound knowledge of ancient scriptures and guiding couples through sacred matrimonial rites."
+Status: "Pending"
+
+Name: Pandit Deepak Verma
+Language: Punjabi, Hindi, English
+Experience: 12 years
+Description: "Pandit Deepak Verma is a compassionate pandit who performs Punjabi wedding ceremonies, blending tradition and contemporary customs seamlessly."
+Status: "Pending"
+
+Name: Pandit Nandita Mishra
+Language: Bengali, Hindi, English
+Experience: 8 years
+Description: "Pandit Nandita Mishra is a versatile priestess proficient in Bengali wedding rituals, bringing grace and spirituality to every union."
+Status: "Pending"
+
+Name: Pandit Ankit Shah
+Language: Gujarati, Hindi, English
+Experience: 5 years
+Description: "Pandit Ankit

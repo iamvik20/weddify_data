@@ -1,0 +1,59 @@
+Image Link: "https://example.com/car1.jpg"
+Name: "Luxury Wheels"
+Price: ₹10,000 per day
+Description: "Arrive in style with our fleet of luxurious cars, offering comfort, elegance, and sophistication for your wedding day."
+Status: "Pending"
+
+Image Link: "https://example.com/car2.jpg"
+Name: "Vintage Classics"
+Price: ₹8,000 per day
+Description: "Add a touch of nostalgia with our collection of vintage classic cars, transporting you to a bygone era of elegance."
+Status: "Pending"
+
+Image Link: "https://example.com/car3.jpg"
+Name: "Sleek Sedans"
+Price: ₹6,000 per day
+Description: "Experience the sleekness and modernity of our sedans, providing comfort and style throughout your wedding festivities."
+Status: "Pending"
+
+Image Link: "https://example.com/car4.jpg"
+Name: "Convertible Delights"
+Price: ₹12,000 per day
+Description: "Enjoy the wind in your hair and a sense of freedom with our convertible cars, perfect for a memorable entrance."
+Status: "Pending"
+
+Image Link: "https://example.com/car5.jpg"
+Name: "Royal Rides"
+Price: ₹15,000 per day
+Description: "Feel like royalty on your special day with our fleet of regal cars, exuding opulence and grandeur."
+Status: "Pending"
+
+Image Link: "https://example.com/car6.jpg"
+Name: "Exotic Excursions"
+Price: ₹20,000 per day
+Description: "Make a statement with our collection of exotic cars, turning heads as you arrive in unparalleled style."
+Status: "Pending"
+
+Image Link: "https://example.com/car7.jpg"
+Name: "Modern Marvels"
+Price: ₹9,000 per day
+Description: "Experience the cutting-edge technology and modern comforts of our fleet of modern cars, ensuring a smooth and enjoyable ride."
+Status: "Pending"
+
+Image Link: "https://example.com/car8.jpg"
+Name: "Luxury SUVs"
+Price: ₹11,000 per day
+Description: "Combine style and versatility with our luxury SUVs, providing ample space and a touch of sophistication."
+Status: "Pending"
+
+Image Link: "https://example.com/car9.jpg"
+Name: "Eco-Friendly Options"
+Price: ₹7,000 per day
+Description: "Opt for eco-friendly transportation with our range of electric and hybrid cars, promoting sustainability on your wedding day."
+Status: "Pending"
+
+Image Link: "https://example.com/car10.jpg"
+Name: "Sports Car Thrills"
+Price: ₹25,000 per day
+Description: "Experience the adrenaline rush with our high-performance sports cars, adding excitement and glamour to your wedding celebrations."
+Status: "Pending"
