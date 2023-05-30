@@ -1,34 +1,49 @@
-Name: Pandit Ravi Sharma
-Language: Hindi, Sanskrit
-Experience: 15 years
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/884578/1575003880_Screenshot_2.png"
+Name: "Pandit Ravi Sharma"
 Description: "Pandit Ravi Sharma brings deep knowledge of Vedic rituals and traditions, conducting wedding ceremonies with utmost grace and authenticity."
 Status: "Pending"
 
-Name: Pandit Priya Patel
-Language: Gujarati, English, Hindi
-Experience: 10 years
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/884578/1575003880_Screenshot_2.png"
+Name: "Pandit Priya Patel"
 Description: "Pandit Priya Patel is a skilled priestess with expertise in Gujarati wedding rituals, ensuring a meaningful and culturally rich ceremony."
 Status: "Pending"
 
-Name: Pandit Rajesh Joshi
-Language: Marathi, Hindi, Sanskrit
-Experience: 20 years
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/1298699/1644860387_indian_wedding_photography.jpg"
+Name: "Pandit Rajesh Joshi"
 Description: "Pandit Rajesh Joshi is a highly respected priest, known for his profound knowledge of ancient scriptures and guiding couples through sacred matrimonial rites."
 Status: "Pending"
 
-Name: Pandit Deepak Verma
-Language: Punjabi, Hindi, English
-Experience: 12 years
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/1298722/1592575315_Screenshot_from_2020_06_19_19_27_59.png"
+Name: "Pandit Deepak Verma"
 Description: "Pandit Deepak Verma is a compassionate pandit who performs Punjabi wedding ceremonies, blending tradition and contemporary customs seamlessly."
 Status: "Pending"
 
-Name: Pandit Nandita Mishra
-Language: Bengali, Hindi, English
-Experience: 8 years
+Image Link: "https://example.com/pandit5.jpg"
+Name: "Pandit Nandita Mishra"
 Description: "Pandit Nandita Mishra is a versatile priestess proficient in Bengali wedding rituals, bringing grace and spirituality to every union."
 Status: "Pending"
 
-Name: Pandit Ankit Shah
-Language: Gujarati, Hindi, English
-Experience: 5 years
-Description: "Pandit Ankit
+Image Link: "https://example.com/pandit6.jpg"
+Name: "Pandit Ankit Shah"
+Description: "Pandit Ankit Shah is an experienced pandit who conducts weddings with devotion and reverence, ensuring a sacred and meaningful ceremony."
+Status: "Pending"
+
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/1298690/1592571882_Screenshot_from_2020_06_19_18_30_07.png"
+Name: "Pandit Meena Sharma"
+Description: "Pandit Meena Sharma is a knowledgeable and respected priestess who performs wedding ceremonies with deep understanding and spirituality."
+Status: "Pending"
+
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/885776/1575038993_Screenshot_from_2019_11_29_20_19_25.png"
+Name: "Pandit Sanjay Patel"
+Description: "Pandit Sanjay Patel is a dedicated pandit who brings years of experience and wisdom to create a sacred and memorable wedding experience."
+Status: "Pending"
+
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/1298696/1592572596_Screenshot_from_2020_06_19_18_39_14.png"
+Name: "Pandit Shiva Gupta"
+Description: "Pandit Shiva Gupta is a highly skilled and revered priest, known for his meticulous attention to detail and authenticity in wedding rituals."
+Status: "Pending"
+
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/886858/1575098871_Screenshot_from_2019_11_30_12_56_26.png"
+Name: "Pandit Rekha Joshi"
+Description: "Pandit Rekha Joshi is a learned and compassionate priestess who conducts weddings with warmth and reverence, ensuring a beautiful union."
+Status: "Pending"
