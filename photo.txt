@@ -1,58 +1,58 @@
-Image Link: "https://example.com/photographer1.jpg"
+Image Link: "https://image.wedmegood.com/resized/1000X/uploads/member/2731628/1642510052_sanjeevanixrigveduzi03328_copy_51264708520_o.jpg?crop=100,278,1619,910"
 Name: "Capture Bliss"
 Price: ₹60,000
 Description: "Let us capture the blissful moments of your wedding day with our skilled photography services."
 Status: "Pending"
 
-Image Link: "https://example.com/photographer2.jpg"
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/project/241865/1680381145_5G1A9922_copy.jpg?crop=94,67,1954,1099"
 Name: "Lens & Love"
 Price: ₹80,000
 Description: "We use the lens to tell the love story of your wedding, creating timeless memories."
 Status: "Pending"
 
-Image Link: "https://example.com/photographer3.jpg"
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/project/233745/1675155352_IMGL0559.JPG?crop=4,1033,2038,1146"
 Name: "Framed Elegance"
 Price: ₹70,000
 Description: "With an eye for elegance, we capture the essence and beauty of your special day."
 Status: "Pending"
 
-Image Link: "https://example.com/photographer4.jpg"
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/429973/1678726967_B612_20230313_160917_853.jpg?crop=217,483,1629,916"
 Name: "Candid Moments"
 Price: ₹75,000
 Description: "Preserve the candid moments and genuine emotions of your wedding through our photography."
 Status: "Pending"
 
-Image Link: "https://example.com/photographer5.jpg"
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/478554/1679562956_46.jpg?crop=185,452,1622,912"
 Name: "Artistic Visions"
 Price: ₹65,000
 Description: "We transform wedding moments into artistic visions, capturing the unique essence of your day."
 Status: "Pending"
 
-Image Link: "https://example.com/photographer6.jpg"
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/905468/1653208407_DSC_0109.jpg?crop=10,100,2027,1140"
 Name: "Timeless Frames"
 Price: ₹90,000
 Description: "Create timeless frames that encapsulate the love, joy, and beauty of your wedding."
 Status: "Pending"
 
-Image Link: "https://example.com/photographer7.jpg"
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/769011/1680093568_AIS00065.jpg?crop=5,132,1934,1088"
 Name: "Romantic Portraits"
 Price: ₹55,000
 Description: "Crafting romantic portraits that reflect your love story and capture your unique connection."
 Status: "Pending"
 
-Image Link: "https://example.com/photographer8.jpg"
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/386087/1669223575_124A6999_resize.jpg?crop=11,0,2024,1138"
 Name: "Enchanting Clicks"
 Price: ₹75,000
 Description: "We specialize in capturing enchanting moments, weaving them into a beautiful visual narrative."
 Status: "Pending"
 
-Image Link: "https://example.com/photographer9.jpg"
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/1806214/1678013057_3E1A4055_copy.jpg?crop=129,314,1825,1026"
 Name: "Vintage Memories"
 Price: ₹50,000
 Description: "Embrace the nostalgia of vintage aesthetics as we create timeless memories of your wedding."
 Status: "Pending"
 
-Image Link: "https://example.com/photographer10.jpg"
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/27071/1661243931_S5_01311.jpg?crop=11,58,2024,1138"
 Name: "Majestic Shots"
 Price: ₹85,000
 Description: "We capture majestic shots that showcase the grandeur and beauty of your wedding day."
