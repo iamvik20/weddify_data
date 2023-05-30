@@ -1,58 +1,58 @@
-Image Link: "https://example.com/makeupstudio1.jpg"
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/142195/1608961452_image8580.jpg"
 Name: "Glamourous Makeovers"
 Price: ₹30,000
 Description: "Get ready to shine with our glamorous makeovers, tailored to enhance your natural beauty."
 Status: "Pending"
 
-Image Link: "https://example.com/makeupstudio2.jpg"
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/891953/1646289191_IMG_20220301_WA0040.jpg,1266,712"
 Name: "Radiant Beauty"
 Price: ₹40,000
 Description: "Experience the magic of radiant beauty as our professional makeup artists transform you on your special day."
 Status: "Pending"
 
-Image Link: "https://example.com/makeupstudio3.jpg"
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/4119220/1684482190_334562123_2169649669888252_7835610415459690382_n.jpg"
 Name: "Timeless Elegance"
 Price: ₹35,000
 Description: "Achieve a timeless and elegant look with our expert makeup techniques and attention to detail."
 Status: "Pending"
 
-Image Link: "https://example.com/makeupstudio4.jpg"
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/4887/1654088103_IMG_9772_copy.JPG"
 Name: "Flawless Perfection"
 Price: ₹45,000
 Description: "Discover flawless perfection with our skilled makeup artists, using premium products and techniques."
 Status: "Pending"
 
-Image Link: "https://example.com/makeupstudio5.jpg"
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/2369176/1682252600_image3596.jpg"
 Name: "Natural Glam"
 Price: ₹25,000
 Description: "Enhance your natural features with a touch of glam, creating a perfect balance of elegance and allure."
 Status: "Pending"
 
-Image Link: "https://example.com/makeupstudio6.jpg"
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/2761152/1644052708_IMG_20201106_WA0017.jpg"
 Name: "Bold Statements"
 Price: ₹50,000
 Description: "Make a bold statement with our unique and creative makeup styles, reflecting your individuality."
 Status: "Pending"
 
-Image Link: "https://example.com/makeupstudio7.jpg"
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/115903/1621836517_image9043.jpg"
 Name: "Sophisticated Charm"
 Price: ₹38,000
 Description: "Experience sophisticated charm as our makeup artists create a look that exudes grace and poise."
 Status: "Pending"
 
-Image Link: "https://example.com/makeupstudio8.jpg"
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/417541/1684422212_image9395.jpg"
 Name: "Dewy Glow"
 Price: ₹32,000
 Description: "Achieve a dewy and luminous glow that enhances your natural radiance, captivating all eyes."
 Status: "Pending"
 
-Image Link: "https://example.com/makeupstudio9.jpg"
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/2007264/1622111167_t21.jpg"
 Name: "Vintage Vibes"
 Price: ₹42,000
 Description: "Transport yourself to a bygone era with our vintage-inspired makeup styles, oozing with nostalgia."
 Status: "Pending"
 
-Image Link: "https://example.com/makeupstudio10.jpg"
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/3314000/1659089726_294650024_439168674741132_38298365621999212_n.jpg"
 Name: "Modern Chic"
 Price: ₹36,000
 Description: "Embrace modern chic with our contemporary makeup techniques, blending trends with timeless beauty."
