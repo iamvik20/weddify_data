@@ -1,58 +1,57 @@
-Image Link: "https://example.com/mehndi1.jpg"
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/188031/1613122967_IMG_20210212_151220.jpg"
 Name: "Intricate Henna"
 Price: ₹8,000
 Description: "Adorn your hands and feet with intricate henna designs created by our skilled mehndi artists."
 Status: "Pending"
 
-Image Link: "https://example.com/mehndi2.jpg"
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/project/74728/1623523306_IMG_20210613_000450.jpg"
 Name: "Traditional Elegance"
 Price: ₹10,000
 Description: "Experience the timeless elegance of traditional mehndi art, adding grace to your wedding celebration."
 Status: "Pending"
 
-Image Link: "https://example.com/mehndi3.jpg"
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/701613/1668343739_IMG_20221018_173946.jpg"
 Name: "Contemporary Patterns"
 Price: ₹12,000
 Description: "Embrace contemporary mehndi patterns that blend modern artistry with traditional designs."
 Status: "Pending"
 
-Image Link: "https://example.com/mehndi4.jpg"
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/1525005/1676552003_IMG_20230126_WA0054.jpg"
 Name: "Bridal Bliss"
 Price: ₹15,000
 Description: "Elevate your bridal look with our exquisite henna art, customized to reflect your unique style."
 Status: "Pending"
 
-Image Link: "https://example.com/mehndi5.jpg"
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/1298315/1643396421_IMG_20220105_WA0429.jpg"
 Name: "Intriguing Motifs"
 Price: ₹9,000
 Description: "Discover the beauty of mehndi motifs that captivate the eye and add allure to your wedding day."
 Status: "Pending"
 
-Image Link: "https://example.com/mehndi6.jpg"
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/700602/1567662781_Ajay8.jpg"
 Name: "Festive Fervor"
 Price: ₹11,000
 Description: "Immerse yourself in the festive fervor with our vibrant and celebratory mehndi designs."
 Status: "Pending"
 
-Image Link: "https://example.com/mehndi7.jpg"
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/1520533/1603285579_abhishekn.JPG"
 Name: "Delicate Details"
 Price: ₹7,000
 Description: "Experience the beauty of delicate mehndi details that enhance the grace and elegance of your hands."
 Status: "Pending"
 
-Image Link: "https://example.com/mehndi8.jpg"
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/1496581/1603116407_ganesh_mehandi_art_bhuwana_udaipur_rajasthan_tattoo_parlours_ggq94bg81h.jpg"
 Name: "Whimsical Strokes"
 Price: ₹13,000
 Description: "Infuse your mehndi design with whimsical strokes and playful patterns, adding a touch of magic."
 Status: "Pending"
-
-Image Link: "https://example.com/mehndi9.jpg"
+https://image.wedmegood.com/resized/450X/uploads/member/2922155/1648475473_IMG_20220323_130320.jpg"
 Name: "Ethnic Charm"
 Price: ₹9,500
 Description: "Celebrate the rich heritage of mehndi art with our ethnic designs that reflect cultural charm."
 Status: "Pending"
 
-Image Link: "https://example.com/mehndi10.jpg"
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/2158338/1625681852_IMG_20210707_WA0062.jpg"
 Name: "Bold Statements"
 Price: ₹14,000
 Description: "Make a bold statement with our unique and striking mehndi designs, showcasing your individuality."
