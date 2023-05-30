@@ -10,7 +10,7 @@ Price: ₹320,000
 Description: "A beautifully landscaped lawn with elegant decor and a serene atmosphere, ideal for intimate gatherings."
 Status: "Pending"
 
-Image Link: "https://imgmediagumlet.lbb.in/media/2019/04/5ca1cedf8722f4176f30d878_1554108127903.jpg?fm=webp&w=750&h=500&dpr=1"
+Image Link: "https://imgmediagumlet.lbb.in/media/2019/04/5ca1cedf8722f4176f30d878_1554108127903.jpg"
 Name: "Royal Oasis"
 Price: ₹420,000
 Description: "Experience a royal wedding at our exquisite lawn, adorned with regal motifs and majestic surroundings."
@@ -22,37 +22,37 @@ Price: ₹280,000
 Description: "Enjoy a blissful union amidst lush greenery and natural beauty, creating unforgettable memories."
 Status: "Pending"
 
-Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/576270/1614517963_DSC_2763.jpg?crop=12,192,2011,1131"
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/576270/1614517963_DSC_2763.jpg"
 Name: "Enchanted Haven"
 Price: ₹380,000
 Description: "Step into an enchanted haven of love and enchantment, where dreams come true and celebrations sparkle."
 Status: "Pending"
 
-Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/785056/1652541066_image5056.jpg?crop=6,712,2036,1145"
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/785056/1652541066_image5056.jpg"
 Name: "Serene Valley"
 Price: ₹260,000
 Description: "Host your wedding in a tranquil and serene valley, providing a peaceful ambiance for your special day."
 Status: "Pending"
 
-Image Link: "https://image.wedmegood.com/resized/1000X/uploads/member/1143519/1684230607_the_elite_lucknow_convention.jpg?crop=7,100,1385,779"
+Image Link: "https://image.wedmegood.com/resized/1000X/uploads/member/1143519/1684230607_the_elite_lucknow_convention.jpg"
 Name: "Majestic Park"
 Price: ₹360,000
 Description: "Celebrate your love in a majestic park, offering a picturesque setting and grandeur at every corner."
 Status: "Pending"
 
-Image Link: "https://image.wedmegood.com/resized/1000X/uploads/member/911833/1591186516_Magnolia___2____Copy.jpg?crop=7,86,1017,571"
+Image Link: "https://image.wedmegood.com/resized/1000X/uploads/member/911833/1591186516_Magnolia___2____Copy.jpg"
 Name: "Tranquil Retreat"
 Price: ₹330,000
 Description: "Escape to a tranquil retreat, surrounded by nature's beauty, for an intimate and serene wedding affair."
 Status: "Pending"
 
-Image Link: "https://image.wedmegood.com/resized/1000X/uploads/member/567910/1646302632_262386823_4701035533285815_8548420460417377367_n.jpg?crop=83,44,789,444"
+Image Link: "https://image.wedmegood.com/resized/1000X/uploads/member/567910/1646302632_262386823_4701035533285815_8548420460417377367_n.jpg"
 Name: "Graceful Manor"
 Price: ₹360,000
 Description: "Discover the elegance of a graceful manor, a perfect venue for sophisticated and stylish weddings."
 Status: "Pending"
 
-Image Link: "https://image.wedmegood.com/resized/1000X/uploads/member/682682/1656759202_PHOTO_2022_07_02_14_35_35.jpg?crop=8,0,1584,891"
+Image Link: "https://image.wedmegood.com/resized/1000X/uploads/member/682682/1656759202_PHOTO_2022_07_02_14_35_35.jpg
 Name: "Harmony Gardens"
 Price: ₹320,000
 Description: "Experience harmony and bliss at our stunning garden venue, where love and nature intertwine."

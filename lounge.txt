@@ -22,13 +22,13 @@ Price: ₹160,000
 Description: "Transform your wedding venue into a relaxing retreat, offering cozy seating areas and serene ambiance."
 Status: "Pending"
 
-Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/567910/1646302632_262386823_4701035533285815_8548420460417377367_n.jpg?crop=83,44,789,444"
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/567910/1646302632_262386823_4701035533285815_8548420460417377367_n.jpg"
 Name: "Vintage Vibes"
 Price: ₹140,000
 Description: "Transport your guests to a bygone era with our vintage-inspired lounge, exuding nostalgia and charm."
 Status: "Pending"
 
-Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/565814/1678003090_IMG_0797.jpg?crop=10,85,2028,1141"
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/565814/1678003090_IMG_0797.jpg"
 Name: "Contemporary Zen"
 Price: ₹190,000
 Description: "Create a sense of contemporary zen in our lounge, featuring clean lines and harmonious design elements."
@@ -46,13 +46,13 @@ Price: ₹130,000
 Description: "Embrace the rustic charm of our lounge, featuring warm wood tones and cozy, earthy accents."
 Status: "Pending"
 
-Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/2497479/1635834164_IMG_20211021_WA0021.jpg?crop=7,60,1009,568
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/2497479/1635834164_IMG_20211021_WA0021.jpg
 Name: "Garden Retreat"
 Price: ₹200,000
 Description: "Transform your wedding space into a lush garden retreat with our outdoor lounge, surrounded by greenery."
 Status: "Pending"
 
-Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/565774/1666772342_image9964.jpg?crop=0,2,960,539"
+Image Link: "https://image.wedmegood.com/resized/450X/uploads/member/565774/1666772342_image9964.jpg"
 Name: "Sleek Sophistication"
 Price: ₹160,000
 Description: "Experience sleek sophistication in our lounge, boasting contemporary design and sleek furnishings."

@@ -1,58 +1,58 @@
-Image Link: "https://example.com/car1.jpg"
+Image Link: "https://5.imimg.com/data5/LJ/BB/GD/GLADMIN-246271/wed-500x500.jpg"
 Name: "Luxury Wheels"
 Price: ₹10,000 per day
 Description: "Arrive in style with our fleet of luxurious cars, offering comfort, elegance, and sophistication for your wedding day."
 Status: "Pending"
 
-Image Link: "https://example.com/car2.jpg"
+Image Link: https://cdn.augrav.com/online/jewels/2017/07/19756420_1408801095855215_8135233045232620139_n.jpg
 Name: "Vintage Classics"
 Price: ₹8,000 per day
 Description: "Add a touch of nostalgia with our collection of vintage classic cars, transporting you to a bygone era of elegance."
 Status: "Pending"
 
-Image Link: "https://example.com/car3.jpg"
+Image Link: https://www.ecorentacar.com/blog/wp-content/uploads/2019/05/wedding-car-hire-710x350.jpg
 Name: "Sleek Sedans"
 Price: ₹6,000 per day
 Description: "Experience the sleekness and modernity of our sedans, providing comfort and style throughout your wedding festivities."
 Status: "Pending"
 
-Image Link: "https://example.com/car4.jpg"
+Image Link: https://www.ecorentacar.com/blog/wp-content/uploads/2020/02/wedding-car-rental-services-500x500-1.jpg
 Name: "Convertible Delights"
 Price: ₹12,000 per day
 Description: "Enjoy the wind in your hair and a sense of freedom with our convertible cars, perfect for a memorable entrance."
 Status: "Pending"
 
-Image Link: "https://example.com/car5.jpg"
+Image Link: https://vintagecarforwedding.com/wp-content/uploads/2021/05/vintage-car-red.jpg
 Name: "Royal Rides"
 Price: ₹15,000 per day
 Description: "Feel like royalty on your special day with our fleet of regal cars, exuding opulence and grandeur."
 Status: "Pending"
 
-Image Link: "https://example.com/car6.jpg"
+Image Link: https://5.imimg.com/data5/OI/SO/MY-23441034/wedding-cars-hire-in-bangalore-wedding-cars-for-rent-in-bangalore-9019944459-1000x1000.jpg
 Name: "Exotic Excursions"
 Price: ₹20,000 per day
 Description: "Make a statement with our collection of exotic cars, turning heads as you arrive in unparalleled style."
 Status: "Pending"
 
-Image Link: "https://example.com/car7.jpg"
+Image Link: https://cdn.augrav.com/online/jewels/2017/07/14915138_1781278285469100_6337916464860214899_n1.jpg
 Name: "Modern Marvels"
 Price: ₹9,000 per day
 Description: "Experience the cutting-edge technology and modern comforts of our fleet of modern cars, ensuring a smooth and enjoyable ride."
 Status: "Pending"
 
-Image Link: "https://example.com/car8.jpg"
+Image Link: https://2.wlimg.com/product_images/bc-full/2022/10/10419808/watermark/wedding-car-rental-service-1663752938-6550614.jpeg
 Name: "Luxury SUVs"
 Price: ₹11,000 per day
 Description: "Combine style and versatility with our luxury SUVs, providing ample space and a touch of sophistication."
 Status: "Pending"
 
-Image Link: "https://example.com/car9.jpg"
+Image Link: https://www.kottayamweddingcars.com/images/news/2.jpg
 Name: "Eco-Friendly Options"
 Price: ₹7,000 per day
 Description: "Opt for eco-friendly transportation with our range of electric and hybrid cars, promoting sustainability on your wedding day."
 Status: "Pending"
 
-Image Link: "https://example.com/car10.jpg"
+Image Link: https://www.amritsartaxi.in/images/wedding-car1.jpg
 Name: "Sports Car Thrills"
 Price: ₹25,000 per day
 Description: "Experience the adrenaline rush with our high-performance sports cars, adding excitement and glamour to your wedding celebrations."
